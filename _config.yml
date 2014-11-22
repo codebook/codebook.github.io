@@ -3,10 +3,10 @@ permalink: /:title/
 url: http://codebook.github.io/
 name: Lowry's Home
 author: Lowry
-duoshuo: 32154813
+duoshuo: codebook
 email: lrj.priv#gmail.com
 github: codebook
-pygments: true
+highlighter: pygments
 safe: true
 paginate: 20
 about: "Lowry 的个人博客<br /><br />"
